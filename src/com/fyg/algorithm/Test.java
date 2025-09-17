@@ -6,5 +6,6 @@ public class Test {
         System.out.println("哈哈哈哈");
         System.out.println("哈哈哈哈");
         System.out.println("test");
+        System.out.println("test push");
     }
 }
